@@ -11,3 +11,5 @@ S
 #contracts/spacetime-config-nft.clar,f/8/f8f92fff2e62d5ce4901ab09a9986d5f64b3806f
 R
 "tests/spacetime-config-nft.test.ts,e/b/ebfb0975abac78b97c4f92acb63ab6ad7ce92a4b
+W
+'contracts/experiment-voting-system.clar,a/e/ae97e132d15448138c123513edc04f3ade227b02
